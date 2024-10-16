@@ -10,3 +10,12 @@
     #if num4 greater print num4
 #compare num5 with num1-4 
     #if num5 greater print num5
+
+
+num1 = int(input("1st:"))
+num2 = int(input("2nd:"))
+num3 = int(input("3rd:"))
+num4 = int(input("4th:"))
+num5 = int(input("5th:"))
+
+
